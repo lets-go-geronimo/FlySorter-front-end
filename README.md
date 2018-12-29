@@ -1,3 +1,8 @@
+# Note
+Over the last month, this project has taken a major direction change from the original fork. It has now been cloned and moved to this repository moving forward:
+
+https://github.com/bgwest/RIMS-front-end
+
 ![logo](./assets/defaultLogo.png)
 # ***Front End Repository***
 - If you're looking for the back end repository, click [HERE](https://github.com/lets-go-geronimo/readyIMS-back-end)
